@@ -356,11 +356,11 @@ h1 {
 }
 
 .link-socials:hover {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 
 .link-socials:focus {
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 
 .section-portfolio {
@@ -508,4 +508,12 @@ h1 {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+}
+
+.link-footer-socials:hover {
+  background-color: #31d0aa;
+}
+
+.link-footer-socials:focus {
+  background-color: #31d0aa;
 }
