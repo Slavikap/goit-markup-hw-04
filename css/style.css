@@ -486,9 +486,19 @@ h1 {
 .container-footer {
   display: flex;
   gap: 120px;
+  align-items: baseline;
 }
 
 .logo-wrapper {
   display: flex;
   flex-direction: column;
+  margin-right: 120px;
+}
+
+.list-socials-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 16px;
+  justify-content: center;
+  gap: 0px 16px 16px 16px;
 }
