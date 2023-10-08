@@ -155,7 +155,7 @@ h1 {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/solutions_image.jpg);
+    url("/images/solutions_image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -496,9 +496,6 @@ h1 {
 
 .list-socials-footer {
   display: flex;
-  justify-content: space-between;
-  padding: 8px 16px;
-  justify-content: center;
   gap: 16px;
 }
 
