@@ -155,7 +155,7 @@ h1 {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/solutions_image.jpg);
+    url(../images/solutions_image.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -338,8 +338,6 @@ h1 {
 }
 
 .social-svg {
-  width: 16px;
-  height: 16px;
   fill: rgba(244, 244, 253, 1);
 }
 
@@ -490,7 +488,6 @@ h1 {
 
 .container-footer {
   display: flex;
-  gap: 120px;
   align-items: baseline;
 }
 
